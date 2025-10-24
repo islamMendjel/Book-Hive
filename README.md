@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
+
 # Book Hive Odyssey
 
 Book Hive is a modern, responsive **bookstore** built to bring readers and books together in one seamless experience.
@@ -23,3 +25,5 @@ Book Hive is a modern, responsive **bookstore** built to bring readers and books
 1. **Clone** the repo  
    ```bash
    git clone https://github.com/islamMendjel/Book-Hive-Website-Store.git
+
+![](https://github.com/idimetrix/BEPb/blob/main/assets/Bottom_down.svg)
