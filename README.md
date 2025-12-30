@@ -24,6 +24,6 @@ Book Hive is a modern, responsive **bookstore** built to bring readers and books
 
 1. **Clone** the repo  
    ```bash
-   git clone https://github.com/islamMendjel/Book-Hive-Website-Store.git
+   git clone https://github.com/islamMendjel/Book-Hive.git
 
 ![](https://github.com/idimetrix/BEPb/blob/main/assets/Bottom_down.svg)
